@@ -5,13 +5,18 @@
   color: white;
 }
 
+.row > * {
+  padding: 20px 24px 35px;
+}
+
 /* HEADER */
 header {
   text-align: center;
   padding-top: 57px;
   margin-bottom: 42px;
 }
-.p.header-sub {
+
+.header-sub {
   font-size: 20px;
 }
 
