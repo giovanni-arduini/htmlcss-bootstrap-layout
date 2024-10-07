@@ -1,22 +1,27 @@
+/* LAYOUT */
+
+.row {
+  padding: 0 44px;
+  margin-bottom: 24px;
+  color: white;
+}
+
+/* HEADER */
 header {
   text-align: center;
   padding-top: 57px;
   margin-bottom: 42px;
 }
-
 .p.header-sub {
   font-size: 20px;
 }
 
-.row {
-  padding: 0 44px;
-  margin-bottom: 24px;
-}
+/* MAIN */
 
 /* Utilities */
 
-.white {
-  color: white;
+.txt-black {
+  color: black;
 }
 
 .light-grey {
